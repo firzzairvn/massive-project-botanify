@@ -9,13 +9,13 @@
 </div>
 
 ## Teams
-- Baiq Ardewani Dara Puspita (Design Researcher)
-- Muhammad Irvan Arfirza (Data Engineer)
-- Muhammad Luthfi Amin G (Machine Learning Engineer)
-- Dwi Cahyo Mariyanto (Machine Learning Ops)
+- Baiq Ardewani Dara Puspita (Design Researcher) - Politeknik Negeri Batam
+- Muhammad Irvan Arfirza (Data Engineer) - Universitas Gunadarma
+- Muhammad Luthfi Amin G (Machine Learning Engineer) - Universitas Pasundan
+- Dwi Cahyo Mariyanto (Machine Learning Ops) - Universitas Airlangga
 
-## Idea Background 
-Tema : Agriculture
+## Main Idea
+Menyediakan aplikasi yang dapat menyelesaikan masalah pengguna untuk memantau dan mendeteksi tanaman yang pengguna miliki. Dengan dikembangkannya aplikasi ini diharapkan dapat menjaga kualitas dari tanaman serta meningkatkan kualitas di sektor agrikultur yang dimana sektor ini masih sangat bisa untuk dikembangkan di Indonesia. Untuk prototype awal, aplikasi ini masih difokuskan kepada pengembangan untuk mendeteksi tanaman hias yang kedepannya diharapkan untuk lebih luas jangkauan yang bisa aplikasi ini kembangkan
 
 ## Problem
 Pengelolaan tanaman hias memerlukan pengetahuan yang mendalam tentang berbagai jenis tanaman serta penyakit dan hama yang dapat menyerang mereka. Banyak pemilik tanaman, baik amatir maupun profesional, menghadapi tantangan dalam mengidentifikasi tanaman dengan benar dan mendiagnosis penyakit atau hama yang menyerang. Kurangnya pengetahuan ini dapat menyebabkan perawatan yang tidak tepat, sehingga tanaman menjadi tidak sehat atau bahkan mati. 
